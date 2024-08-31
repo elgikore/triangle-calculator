@@ -1,5 +1,5 @@
 > [!NOTE]  
-> Currently have no plans to update the project. Originally, the summary screen is where the history of inputted data and the result is stored, but currently not implemented.
+> Currently have no plans to update the project. Originally, the summary screen is where the history of inputted data and the result is stored, but currently not implemented, as it will exit the app when selected.
 <br>
 
 This app was made as part of the requirement for CPE1130 Programming Logic and Design.
