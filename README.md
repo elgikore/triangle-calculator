@@ -2,7 +2,7 @@
 > Currently have no plans to update the project. Originally, the summary screen is where the history of inputted data and the result is stored, but currently not implemented, as it will exit the app when selected.
 <br>
 
-This app was made as part of the requirement for CPE1130 Programming Logic and Design.
+This app was made as part of the requirement for CPE1130 Programming Logic and Design. The source code can be chaotic as it was the time where classes (and the entire concept of object-oriented programming in general) isn't taught to me yet and at the time I didn't know how to create a separate file where the code actually works on the main C# file, so all the code is stored under one file. Looking back, I still enjoyed making this mini-project even with the aforementioned issues.
 
 <br>
 
